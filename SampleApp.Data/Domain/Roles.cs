@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace SampleApp.Data.Domain
 {
+
     public class Roles
     {
         [Key]
